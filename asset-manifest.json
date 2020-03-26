@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/WEB3B-15707-NAFISAH-REACT/static/css/main.36853ddf.chunk.css",
+    "main.js": "/WEB3B-15707-NAFISAH-REACT/static/js/main.0e9fad9b.chunk.js",
+    "main.js.map": "/WEB3B-15707-NAFISAH-REACT/static/js/main.0e9fad9b.chunk.js.map",
+    "runtime-main.js": "/WEB3B-15707-NAFISAH-REACT/static/js/runtime-main.dcfd6445.js",
+    "runtime-main.js.map": "/WEB3B-15707-NAFISAH-REACT/static/js/runtime-main.dcfd6445.js.map",
+    "static/css/2.4b6e3ef2.chunk.css": "/WEB3B-15707-NAFISAH-REACT/static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.34fa34fe.chunk.js": "/WEB3B-15707-NAFISAH-REACT/static/js/2.34fa34fe.chunk.js",
+    "static/js/2.34fa34fe.chunk.js.map": "/WEB3B-15707-NAFISAH-REACT/static/js/2.34fa34fe.chunk.js.map",
+    "index.html": "/WEB3B-15707-NAFISAH-REACT/index.html",
+    "precache-manifest.3e3f21f2a4a25bfae89192464e5bd198.js": "/WEB3B-15707-NAFISAH-REACT/precache-manifest.3e3f21f2a4a25bfae89192464e5bd198.js",
+    "service-worker.js": "/WEB3B-15707-NAFISAH-REACT/service-worker.js",
+    "static/css/2.4b6e3ef2.chunk.css.map": "/WEB3B-15707-NAFISAH-REACT/static/css/2.4b6e3ef2.chunk.css.map",
+    "static/css/main.36853ddf.chunk.css.map": "/WEB3B-15707-NAFISAH-REACT/static/css/main.36853ddf.chunk.css.map",
+    "static/js/2.34fa34fe.chunk.js.LICENSE.txt": "/WEB3B-15707-NAFISAH-REACT/static/js/2.34fa34fe.chunk.js.LICENSE.txt",
+    "static/media/1.jpg": "/WEB3B-15707-NAFISAH-REACT/static/media/1.9e261561.jpg",
+    "static/media/2.jpg": "/WEB3B-15707-NAFISAH-REACT/static/media/2.81567f0b.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dcfd6445.js",
+    "static/css/2.4b6e3ef2.chunk.css",
+    "static/js/2.34fa34fe.chunk.js",
+    "static/css/main.36853ddf.chunk.css",
+    "static/js/main.0e9fad9b.chunk.js"
+  ]
+}
